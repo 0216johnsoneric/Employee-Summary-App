@@ -5,22 +5,19 @@ class Employee {
     this.id = id;
     this.email = email;
   }
-  // getName fucntion that returns name
+  // getName/getId/getEmail/getRole fucntions that returns name
   getName() {
     return this.name;
   }
 
-  // getId function that returns id
   getId() {
     return this.id;
   }
 
-  // getEmail function that returns email
   getEmail() {
     return this.email;
   }
 
-  // getRole function that returns string Employee
   getRole() {
     return "Employee";
   }
