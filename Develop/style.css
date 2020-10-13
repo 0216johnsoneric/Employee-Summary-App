@@ -1,5 +1,5 @@
 .team-heading {
-    background-color: lightskyblue;
+    background-color: rgb(0, 30, 128);
     color: whitesmoke;
 }
 
@@ -8,6 +8,7 @@
 }
 
 .card-header {
-    background-color: rgb(0, 30, 128);
+    background-color: rgb(93, 126, 235);
     color: whitesmoke;
 }
+

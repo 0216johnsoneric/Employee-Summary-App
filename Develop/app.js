@@ -65,7 +65,7 @@ const questions = [
     // ask if user wants to input more employees
     type: "confirm",
     name: "again",
-    message: "Add more Employee?",
+    message: "Add another Employee?",
     default: true,
   },
 ];
@@ -108,7 +108,7 @@ async function init() {
 
     // call render function to take in employees array as a parameter rite the renderedEmployee data to the path team.html page
     const renderEmployee = render(employees);
-    fs.writeFile(outputPath, renderEmployee, () => console.log("SUCCESS!"));
+    fs.writeFile(outputPath, renderEmployee, () => console.log("HURRAY!"));
   } catch (err) {
     throw new Error(err);
   }
