@@ -5,7 +5,7 @@ class Employee {
     this.id = id;
     this.email = email;
   }
-  // getName/getId/getEmail/getRole fucntions that returns name
+  // getName/getId/getEmail/getRole fucntions that return name, Id, email
   getName() {
     return this.name;
   }
