@@ -18,13 +18,7 @@ This is a Node CLI application that takes in information about employees and gen
 * User can use the CLI to generate an HTML page that displays information about their team.
 * Tests must pass.
 
+<img src="Assets/Screen Shot 2020-10-13 at 8.05.42 PM.png"/>
 
-## Submission on BCS
-
-You are required to submit the following:
-
-* The URL of the GitHub repository
-
-* A video demonstrating the entirety of the app's functionality 
 
 
