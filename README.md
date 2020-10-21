@@ -2,19 +2,15 @@
 
 This is a Node CLI application that takes in information about employees and generates an HTML webpage that displays summaries for each individual. 
 
-## Run
-1) Clone lab: git clone git@github.com:0216johnsoneric/Responsive-Portfolio.git
-2) Run node app.js in app.js file answer CLI questions 
-3) Run in Browser w/ localhost or VS code browser extension
-
 ## Instructions:
-1) Install node.js libraries with npm install
-2) Open app.js in intergrated terminal
-3) Run node app.js
-4) Select appropriate CLI inquirer prompt answers for Manager, Engineer, and Intern.
-5) To add another member to your team Select Y(yes) or when done adding to your team Select N(no).
-6) Open team.html page in Chrome web browser to view results of new team.
-7) Optional open app.js in intergrated terminal and run npm run test
+1) Clone lab: git clone git@github.com:0216johnsoneric/Responsive-Portfolio.git
+2) Install node.js libraries with npm install
+3) Open app.js in intergrated terminal
+4) Run node app.js
+5) Select appropriate CLI inquirer prompt answers for Manager, Engineer, and Intern.
+6) To add another member to your team Select Y(yes) or when done adding to your team Select N(no).
+7) Open team.html page in Chrome web browser to view results of new team.
+8) Optional open app.js in intergrated terminal and run npm run test
 
 ## Requirements
 
