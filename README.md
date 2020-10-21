@@ -1,9 +1,9 @@
 # Employee-Summary-App
 
 ## Run
-Clone lab: git clone git@github.com:0216johnsoneric/Responsive-Portfolio.git
-Run with node.js answer CLI questions 
-Run in Browser w/ localhost or VS code browser extension
+1) Clone lab: git clone git@github.com:0216johnsoneric/Responsive-Portfolio.git
+2) Run with node.js answer CLI questions 
+3) Run in Browser w/ localhost or VS code browser extension
 
 This is a Node CLI application that takes in information about employees and generates an HTML webpage that displays summaries for each individual. 
 
